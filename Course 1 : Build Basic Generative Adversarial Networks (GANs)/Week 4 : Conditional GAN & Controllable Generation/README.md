@@ -1,4 +1,5 @@
-## Week 4 : Conditional GAN & Controllable Generation <br\>
+## Week 4 : Conditional GAN & Controllable Generation 
+<br\>
 Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories!
 Learning Objectives
 - Control GAN generated outputs by adding conditional inputs.
